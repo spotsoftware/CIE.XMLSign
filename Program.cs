@@ -24,10 +24,10 @@ try
     // Sign the XML document.
     SignXml(xmlDoc, rsaKey, certificate);
 
-    Console.WriteLine("XML file signed.");
-
     // Save the document.
     xmlDoc.Save($"{args[0]}_signed.xml");
+
+    Console.WriteLine("XML file signed.");
 }
 catch (Exception e)
 {
