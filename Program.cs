@@ -7,7 +7,7 @@ try
 {
     if (args.Length <= 1)
     {
-        Console.WriteLine("Uso XMLSign [file xml da firmare]");
+        Console.WriteLine("Uso CIE.XMLSign [file xml da firmare] [nome certificato]");
         return;
     }
 

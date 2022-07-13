@@ -2,7 +2,7 @@
   "profiles": {
     "XMLSign": {
       "commandName": "Project",
-      "commandLineArgs": "\"C:\\Sources\\CBR\\PortaleConcessioni\\Sorgenti\\CBR.PortaleConcessioni.WebApp\\AppData\\CIE\\metadata[source].xml\""
+      "commandLineArgs": "\"test.xml\" \"localhost\""
     }
   }
 }
