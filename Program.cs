@@ -20,8 +20,8 @@ try
         Console.WriteLine(" [scope certificato]: \"LocalMachine\"");
         Console.WriteLine("                      \"CurrentUser\"");
         Console.WriteLine("");
-        Console.WriteLine("Esempio");
-        Console.WriteLine("Es. CIE.XMLSign \"test.xml\" \"test.dominio.it\" \"My\" \"CurrentUser\"");
+        Console.WriteLine("Esempio:");
+        Console.WriteLine("CIE.XMLSign \"test.xml\" \"test.dominio.it\" \"My\" \"CurrentUser\"");
         return 0;
     }
 
