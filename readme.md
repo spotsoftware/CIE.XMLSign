@@ -1,4 +1,4 @@
-# CIE.XML Sign
+# CIE.XMLSign
 L'utility serve a firmare il file xml metadata per i Service Provider conforme alle specifiche CIE/SPID.
 Il certificato usato per firmare il file deve essere caricato nello store di Windows e deve contenere la chiave privata.
 
